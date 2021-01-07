@@ -1,1 +1,3 @@
-estou a tentar
+<template>
+  vamos la
+</template>
