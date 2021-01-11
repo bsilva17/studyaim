@@ -1,9 +1,8 @@
-<div>
-  <!-- Image and text -->
-  <b-navbar variant="faded" type="light">
-    <b-navbar-brand href="#">
-      <img src="https://placekitten.com/g/30/30" class="d-inline-block align-top" alt="Kitten">
-      BootstrapVue
-    </b-navbar-brand>
-  </b-navbar>
-</div
+
+  <nav class="navbar navbar-light bg-light">
+  <a class="navbar-brand" href="#">
+    <img src="C:\Users\ganda\OneDrive\Imagens\Documentos\studyaim\Image\logo+slogan.jpeg" width="30" height="30" alt="">
+  </a>
+</nav>
+
+
