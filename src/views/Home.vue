@@ -1,5 +1,4 @@
-<template>
- <div>
+<div>
   <!-- Image and text -->
   <b-navbar variant="faded" type="light">
     <b-navbar-brand href="#">
@@ -8,5 +7,3 @@
     </b-navbar-brand>
   </b-navbar>
 </div
-</template>
-
