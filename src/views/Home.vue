@@ -3,6 +3,9 @@
   <div>
   <b-navbar type="dark" variant="dark" style="background-color: #e3f2fd;" >
     <b-navbar-nav>
+      <a class="navbar-brand" href="#">
+    <img src="../assets/logo+slogan.jpeg" width="30" height="30" alt="">
+  </a>
       
 
       <!-- Navbar dropdowns -->
