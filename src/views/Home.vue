@@ -5,7 +5,12 @@
     <b-navbar-nav>
       <a class="navbar-brand" href="#">
     <img src="../assets/logo+slogan.jpeg" width="30" height="30" alt="">
-  </a>
+  </a> 
+  <ul class="navbar-nav ml-auto">
+  <li class="nav-item">
+                <a class="nav-link" href="">About</a>
+            </li>
+            </ul>
      
   </b-navbar-nav>
 
