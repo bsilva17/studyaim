@@ -8,7 +8,7 @@
       
 
       <!-- Navbar dropdowns -->
-      <b-nav-item-dropdown text="Lang" mr-auto >
+      <b-nav-item-dropdown text="Lang" >
         <b-dropdown-item href="#">EN</b-dropdown-item>
         <b-dropdown-item href="#">ES</b-dropdown-item>
         <b-dropdown-item href="#">RU</b-dropdown-item>
@@ -22,6 +22,14 @@
 <b-nav-item href="#">Home</b-nav-item>
 
     </b-navbar-nav>
+    <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="#">Right</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Link</a>
+            </li>
+        </ul>
 
   </b-navbar>
 </div>
