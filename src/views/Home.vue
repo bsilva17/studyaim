@@ -1,43 +1,33 @@
 <template>
 
-  <nav class="navbar navbar-light" style="background-color: #306a9c;">
-   
-       <a class="navbar-brand" href="#">
-    <img src="../assets/logo+slogan.jpeg" width="30" height="30" alt="">
-  </a> 
-  <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-                <a class="nav-link" href="#">Play</a>
-                </li>
-            
-        </ul>
-        <ul class="navbar-nav ml-auto">
-           
-            <li class="nav-item">
-                <a class="nav-link" href="#">Create</a>
-                 </li>
-            
-        </ul>
-        <ul class="navbar-nav ml-auto">
-           
-             <li class="nav-item">
-                <a class="nav-link" href="#">LeadBoeard</a>
-            </li>
-             
-        </ul>
-        <ul class="navbar-nav ml-auto">
-           
-             <li class="nav-item">
-                <a class="nav-link" href="#">Forum</a>
-            </li>
-             
-        </ul>
-  
+  <div>
+  <b-navbar type="dark" variant="dark" style="background-color: #e3f2fd;" >
+    <b-navbar-nav>
       
 
-  
-  </nav>
+      <!-- Navbar dropdowns -->
+      <b-nav-item-dropdown text="Lang" >
+        <b-dropdown-item href="#">EN</b-dropdown-item>
+        <b-dropdown-item href="#">ES</b-dropdown-item>
+        <b-dropdown-item href="#">RU</b-dropdown-item>
+        <b-dropdown-item href="#">FA</b-dropdown-item>
+      </b-nav-item-dropdown>
 
+      <b-nav-item-dropdown text="User" >
+        <b-dropdown-item href="#">Account</b-dropdown-item>
+        <b-dropdown-item href="#">Settings</b-dropdown-item>
+      </b-nav-item-dropdown>
+<b-nav-item href="#">Home</b-nav-item>
+
+    </b-navbar-nav>
+
+  </b-navbar>
+</div>
 </template>
 
 
+<style scoped>
+ .navbar.navbar-dark.bg-dark{
+    background-color: #306a9c!important;
+ }
+</style>
