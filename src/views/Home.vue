@@ -7,11 +7,11 @@
     <img src="../assets/logo+slogan.jpeg" width="30" height="30" alt="">
   </a>
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup" >
-    <div class="navbar-nav" ml-auto>
+    <div class="navbar-nav" right>
       <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
       <a class="nav-item nav-link" href="#">Features</a>
       <a class="nav-item nav-link" href="#">Pricing</a>
-      <a class="nav-item nav-link disabled" href="#">Disabled</a>
+      
     </div>
   </div>
 
