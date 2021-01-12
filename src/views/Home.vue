@@ -4,7 +4,10 @@
    
        <a class="navbar-brand" href="#">
     <img src="../assets/logo+slogan.jpeg" width="30" height="30" alt="">
-  </a>
+  </a> 
+  <li class="nav-item">
+                <a class="nav-link" href="#">Play</a>
+            </li>
       
 <ul class="navbar-nav ml-auto">
             <li class="nav-item">
