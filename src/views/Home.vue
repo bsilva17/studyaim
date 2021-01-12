@@ -6,7 +6,7 @@
       <a class="navbar-brand" href="#">
     <img src="../assets/logo+slogan.jpeg" width="30" height="30" alt="">
   </a> 
-  <ul class="navbar-nav ml-auto">
+  <ul class="navbar-nav mr-auto">
   <li class="nav-item">
                 <a class="nav-link" href="">About</a>
             </li>
