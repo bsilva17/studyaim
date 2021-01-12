@@ -6,10 +6,7 @@
     <img src="../assets/logo+slogan.jpeg" width="30" height="30" alt="">
   </a>
       
->
-
-    </b-navbar-nav>
-    <ul class="navbar-nav ml-auto">
+<ul class="navbar-nav ml-auto">
             <li class="nav-item">
                 <a class="nav-link" href="#">Play</a>
             </li>
@@ -23,6 +20,9 @@
                 <a class="nav-link" href="#">Forum</a>
             </li>
         </ul>
+
+    </b-navbar-nav>
+    
 
   
   </nav>
