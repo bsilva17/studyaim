@@ -6,7 +6,14 @@
       <a class="navbar-brand" href="#">
     <img src="../assets/logo+slogan.jpeg" width="30" height="30" alt="">
   </a>
-      
+      <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="#">Right</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Link</a>
+            </li>
+        </ul>
 
   </b-navbar-nav>
 
