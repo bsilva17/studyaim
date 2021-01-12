@@ -5,6 +5,7 @@
     <img src="../assets/logo+slogan.jpeg" width="100" height="50" class="d-inline-block align-top" alt="">
     
   </a>
+  <b-nav-item href="#">Home</b-nav-item>
 </nav>
 </template>
 
