@@ -24,7 +24,7 @@
             </li>
         </ul>
 
-  </b-navbar>
+  
   </nav>
 
 </div>
