@@ -1,4 +1,5 @@
-<div>
+<template>
+ <div>
   <b-navbar type="dark" variant="dark">
     <b-navbar-nav>
       
@@ -21,4 +22,6 @@
 
   </b-navbar>
 </div>
+</template>
+
 
