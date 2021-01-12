@@ -6,13 +6,13 @@
       <a class="navbar-brand" href="#">
     <img src="../assets/logo+slogan.jpeg" width="30" height="30" alt="">
   </a>
-     
-  </b-navbar-nav>
   <div class="navbar-nav align-items-end">
-      
+      <a class="nav-item nav-link active" href="#">About <span class="sr-only">(current)</span></a>
       <a class="nav-item nav-link" href="#projects">Projects</a>
       <a class="nav-item nav-link" href="#contact">Contact</a>
     </div
+     
+  </b-navbar-nav>
 
 
   </b-navbar>
