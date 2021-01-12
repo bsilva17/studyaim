@@ -1,6 +1,6 @@
 <template>
  <div>
-  <b-navbar type="dark" variant="dark">
+  <b-navbar "navbar navbar-light" style="background-color: "#306a9c">
     <b-navbar-nav>
     <a class="navbar-brand" href="#">
     <img src="../assets/logo+slogan.jpeg" width="30" height="30" alt="">
