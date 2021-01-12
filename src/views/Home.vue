@@ -8,7 +8,7 @@
       
 
       <!-- Navbar dropdowns -->
-      <b-nav-item-dropdown text="Lang" >
+      <b-nav-item-dropdown text="Lang" mr-auto >
         <b-dropdown-item href="#">EN</b-dropdown-item>
         <b-dropdown-item href="#">ES</b-dropdown-item>
         <b-dropdown-item href="#">RU</b-dropdown-item>
