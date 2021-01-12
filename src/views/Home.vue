@@ -7,27 +7,19 @@
   </a>
       
 
-      <!-- Navbar dropdowns -->
-      <b-nav-item-dropdown text="Lang" >
-        <b-dropdown-item href="#">EN</b-dropdown-item>
-        <b-dropdown-item href="#">ES</b-dropdown-item>
-        <b-dropdown-item href="#">RU</b-dropdown-item>
-        <b-dropdown-item href="#">FA</b-dropdown-item>
-      </b-nav-item-dropdown>
-
-      <b-nav-item-dropdown text="User" >
-        <b-dropdown-item href="#">Account</b-dropdown-item>
-        <b-dropdown-item href="#">Settings</b-dropdown-item>
-      </b-nav-item-dropdown>
-<b-nav-item href="#">Home</b-nav-item>
-
-    </b-navbar-nav>
+      
     <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-                <a class="nav-link" href="#">Right</a>
+                <a class="nav-link" href="#">Play</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Link</a>
+                <a class="nav-link" href="#">Create</a>
+            </li>
+             <li class="nav-item">
+                <a class="nav-link" href="#">LeadBoeard</a>
+            </li>
+             <li class="nav-item">
+                <a class="nav-link" href="#">Forum</a>
             </li>
         </ul>
 
