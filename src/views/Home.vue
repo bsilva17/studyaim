@@ -15,8 +15,8 @@
     </div>
   </div>
 
-       
-  </b-navbar>
+  </b-navbar-nav>
+
 
   </b-navbar>
 </div>
