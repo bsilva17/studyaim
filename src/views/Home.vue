@@ -5,24 +5,35 @@
        <a class="navbar-brand" href="#">
     <img src="../assets/logo+slogan.jpeg" width="30" height="30" alt="">
   </a> 
-  <li class="nav-item">
-                <a class="nav-link" href="#">Play</a>
-            </li>
-      
-<ul class="navbar-nav ml-auto">
+  <ul class="navbar-nav ml-auto">
             <li class="nav-item">
                 <a class="nav-link" href="#">Play</a>
-            </li>
+                </li>
+            
+        </ul>
+        <ul class="navbar-nav ml-auto">
+           
             <li class="nav-item">
                 <a class="nav-link" href="#">Create</a>
-            </li>
+                 </li>
+            
+        </ul>
+        <ul class="navbar-nav ml-auto">
+           
              <li class="nav-item">
                 <a class="nav-link" href="#">LeadBoeard</a>
             </li>
+             
+        </ul>
+        <ul class="navbar-nav ml-auto">
+           
              <li class="nav-item">
                 <a class="nav-link" href="#">Forum</a>
             </li>
+             
         </ul>
+  
+      
 
   
   </nav>
