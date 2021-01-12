@@ -6,7 +6,8 @@
       <a class="navbar-brand" href="#">
     <img src="../assets/logo+slogan.jpeg" width="30" height="30" alt="">
   </a>
-      <ul class="navbar-nav ml-auto">
+     <div class="navbar-collapse collapse w-100 order-3 dual-collapse2">
+        <ul class="navbar-nav ml-auto">
             <li class="nav-item">
                 <a class="nav-link" href="#">Right</a>
             </li>
@@ -14,6 +15,7 @@
                 <a class="nav-link" href="#">Link</a>
             </li>
         </ul>
+    </div>
 
   </b-navbar-nav>
 
